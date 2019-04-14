@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1D8081413A69CA477AD55176 /* QRMapKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = QRMapKit.podspec; path = ../QRMapKit.podspec; sourceTree = "<group>"; };
+		1D8081413A69CA477AD55176 /* QRMapKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = QRMapKit.podspec; path = ../QRMapKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		214B318E20BEF655E905DCE8 /* Pods_QRMapKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QRMapKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		24E238AADD735E1F8BA861BD /* Pods_QRMapKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QRMapKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		323583A549F0DAA12D0679F5 /* Pods-QRMapKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRMapKit_Example.release.xcconfig"; path = "Target Support Files/Pods-QRMapKit_Example/Pods-QRMapKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		36D318D52890901617BD8DA7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		36D318D52890901617BD8DA7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		3F69873A7CFC567A5A99818E /* Pods-QRMapKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRMapKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-QRMapKit_Example/Pods-QRMapKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		40274AFEABE2D58800F45BDC /* Pods-QRMapKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRMapKit_Tests.release.xcconfig"; path = "Target Support Files/Pods-QRMapKit_Tests/Pods-QRMapKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* QRMapKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRMapKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,7 +66,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AC01687FED1FA106753DD4CC /* Pods-QRMapKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QRMapKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-QRMapKit_Tests/Pods-QRMapKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C6B06501EACE317DBE3BDFA2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C6B06501EACE317DBE3BDFA2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,7 +193,6 @@
 				AC01687FED1FA106753DD4CC /* Pods-QRMapKit_Tests.debug.xcconfig */,
 				40274AFEABE2D58800F45BDC /* Pods-QRMapKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
