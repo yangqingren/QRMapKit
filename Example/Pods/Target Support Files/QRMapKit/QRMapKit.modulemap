@@ -1,0 +1,6 @@
+framework module QRMapKit {
+  umbrella header "QRMapKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

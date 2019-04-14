@@ -1,0 +1,28 @@
+{
+  "name": "QRMapKit",
+  "version": "1.0.0",
+  "summary": "a component that can easily display maps of China.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangqingren/QRMapKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangqingren": "564008993@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yangqingren/QRMapKit.git",
+    "tag": "1.0.0"
+  },
+  "frameworks": [
+    "AVFoundation",
+    "Foundation",
+    "UIKit"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QRVideoRecord/Classes/**/*",
+  "resources": "QRVideoRecord/Assets/*.bundle"
+}

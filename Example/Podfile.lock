@@ -1,0 +1,16 @@
+PODS:
+  - QRMapKit (1.0.0)
+
+DEPENDENCIES:
+  - QRMapKit (from `../`)
+
+EXTERNAL SOURCES:
+  QRMapKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QRMapKit: 7531ce60f53da4b0f02bc14cd4ac0f07945e92da
+
+PODFILE CHECKSUM: e72f4c18966f4d8a9f13a31aa409a5b52bf78575
+
+COCOAPODS: 1.6.1
